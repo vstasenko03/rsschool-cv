@@ -3,9 +3,9 @@
 # **Vladislasv Stasenko**
 
 # **Contact information:**
-**Phone:** +375298596628
-**E-mail:** vladiksts@gmail.com
-**Telegram:** vlad_stas__
+1. **Phone:** +375298596628
+2. **E-mail:** vladiksts@gmail.com
+3. **Telegram:** vlad_stas__
 
 # **Briefly About Myself:**
 
