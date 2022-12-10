@@ -50,6 +50,11 @@ checkBtn.addEventListener("click", (event) => {
 
 });
 ```
-# Courses
+# **Courses**
 1. JavaScript Manual on learnjavascript.ru (in progress)
 2. RS Schools Course «JavaScript/Front-end. Stage 0» (in progress) 
+
+# **Language**
+
+1. English - Intermediate
+2. Russian - Native
