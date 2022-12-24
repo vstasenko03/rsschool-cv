@@ -1,0 +1,59 @@
+body {
+	background: linear-gradient(90deg, #b9deed, #efefef);
+}
+  
+  .header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 70px;
+  }
+  
+  .header-desc {
+    margin: 0;
+  }
+  
+  .content-wrapper {
+    margin: 50px 100px;
+  }
+  .contact-inf-wrapper {
+    margin: 50px 100px;
+
+  }
+  .avatar-wrapper {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .content-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .skills-wrapper {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .skills {
+    margin: 25px 50px;
+  }
+
+  .courses {
+    margin: 25px 50px;
+  }
+
+  .languages {
+    margin: 25px 50px;
+  }
+
+    .link {
+    margin: 50px 50px;
+    justify-content: flex-end;
+    }
+
+    .link2 {
+        margin: 50px 50px;
+        justify-content: flex-start;
+        }
